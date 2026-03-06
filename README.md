@@ -20,7 +20,7 @@ The workbook is organized into **3 dedicated sheets**:
 | `Calculations` | Intermediate pivot tables and aggregated metrics powering the dashboard |
 | `Dashboard` | Final interactive visual dashboard with charts, KPIs, and slicers |
 
-
+---
 
 ### Dashboard  View
 ![Dashboard](images/dash.png)
