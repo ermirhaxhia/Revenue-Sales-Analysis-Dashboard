@@ -123,6 +123,10 @@ The dashboard includes **6 dynamic slicers** that filter all charts simultaneous
 
 > ⚠️ **Note:** Slicer functionality requires Excel desktop. Some features may be limited in Excel Online or Google Sheets.
 
+`Below you can download the Excel file so you can access it locally and use all the options the dashboard has.`
+
+[**Download**](https://github.com/ermirhaxhia/Revenue-Sales-Analysis-Dashboard/raw/main/Revenue%20%26%20Sales%20Analysis%20Dashboard.xlsx)
+
 ---
 
 ## 📋 Requirements
