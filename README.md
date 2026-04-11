@@ -133,16 +133,9 @@ The dashboard includes **6 dynamic slicers** that filter all charts simultaneous
 [**Download**](https://github.com/ermirhaxhia/Revenue-Sales-Analysis-Dashboard/raw/main/Revenue%20%26%20Sales%20Analysis%20Dashboard.xlsx)
 
 ---
+## Author
+**Ermir Haxhia**
 
-## 📋 Requirements
-
-- Microsoft Excel 2016 or later (Windows / macOS)
-- Macros: **Not required**
-- External dependencies: **None**
-
----
-
-## 👤 Author
-
-**Ermir Haxhia** — Applied Mathematics · Data Analysis · Programming  
-🌐 [Portfolio](https://ermir-haxhia.vercel.app) · [LinkedIn](https://www.linkedin.com/in/ermir-haxhia-b988212b5) · [GitHub](https://github.com/ermirhaxhia)
+🌐  [Portfolio](https://infrequent-network-348.notion.site/Ermir-Haxhia-Data-Analysis-Portfolio-32c61957cde1800ebff6d7c1190170ae?pvs=143)
+· [LinkedIn](https://www.linkedin.com/in/ermir-haxhia-b988212b5)
+· [GitHub](https://github.com/ermirhaxhia)
